@@ -1,16 +1,21 @@
-### Hi there 👋
+# Frexs9 
 
-<!--
-**Frexs9/Frexs9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   ### Eliott 
+- Pationné d'électronique et de codage  
+- 📍 France 
 
-Here are some ideas to get you started:
+# FORMATION 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍🎓​ LPO Alphonse Benoît - L'Isle Sur La Sorgue 
+- 📚 Première générale spécialité Maths / Sciences de l'ingénieur / Numérique et sciences informatiques 
+
+# LANGAGES 
+
+- Python 
+- C++ / C / C#
+- HTML / CSS / JavaScript 
+
+# OS 
+- 🐧 Linux [ Ubuntu, Pop, kali ]
+- 🪟 Windows 10/11 
+- Androïd, IOS
