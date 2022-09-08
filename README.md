@@ -1,8 +1,11 @@
 # Frexs9 
 
    ### Eliott 
-- Pationné d'électronique et de codage  
+   
 - 📍 France 
+- Pationné d'électronique, de codage et de cybersécurité 
+- Impessions 3D - Creality Ender 3 V1 
+
 
 # FORMATION 
 
@@ -22,5 +25,5 @@
 
 # ME CONTACTER
 
-![](/icons8-nouveau-logo-discord-64.png)         ![](icons8-nouveau-logo-discord-64.png)
-### Frexs_#7127
+[![](/icons8-nouveau-logo-discord-64.png)](https://discord.com/Frexs_#7127)
+[![](/icons8-email-64.png)](https://fabieliott84@gmail.com)
