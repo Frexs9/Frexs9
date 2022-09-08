@@ -22,5 +22,5 @@
 
 # ME CONTACTER
 
-![](/icons8-nouveau-logo-discord-64.png) 
+![](/icons8-nouveau-logo-discord-64.png)         ![](icons8-nouveau-logo-discord-64.png)
 ### Frexs_#7127
