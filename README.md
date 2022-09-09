@@ -3,7 +3,7 @@
    ### Eliott 
    
 - 📍 France 
--  Pationné d'électronique, de codage et de cybersécurité 
+-  Passionné d'électronique, de codage et de cybersécurité 
 -  Impessions 3D - Creality Ender 3 V1 
 
 
