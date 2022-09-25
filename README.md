@@ -26,4 +26,4 @@
 # ME CONTACTER
 
 [![](/icons8-nouveau-logo-discord-64.png)](https://discord.com/Frexs_#7127)
-[![](/icons8-email-64.png)](https://fabieliott84@gmail.com)
+[![](/icons8-email-64.png)](mail: fabieliott84@gmail.com)
