@@ -10,7 +10,7 @@
 # FORMATION 
 
 - 🧑‍🎓​ LPO Alphonse Benoît - L'Isle Sur La Sorgue 
-- 📚 Première générale spécialité Maths / Sciences de l'ingénieur / Numérique et sciences informatiques 
+- 📚 Terminale générale spécialité Maths / Sciences de l'ingénieur / Numérique et sciences informatiques 
 
 # LANGAGES 
 
